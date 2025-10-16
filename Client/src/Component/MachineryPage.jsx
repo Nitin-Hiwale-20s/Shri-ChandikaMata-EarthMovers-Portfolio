@@ -1,5 +1,5 @@
 import React from "react";
-import jcb1 from "../assets/jcb1.jpg";
+import jcb1 from "../assets/Jcb1.jpg";
 import jcb2 from "../assets/Earth.jpg";
 import jcb3 from "../assets/jcb7.jpg";
 import jcb4 from "../assets/jcb6.jpg";
