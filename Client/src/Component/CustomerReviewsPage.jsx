@@ -3,7 +3,7 @@ import rev1 from "../assets/jcb6.jpg";
 import rev2 from "../assets/jcb4.jpg";
 import rev3 from "../assets/jcb8.jpg";
 import rev4 from "../assets/jcb5.jpg";
-import rev5 from "../assets/jcb1.jpg";
+import rev5 from "../assets/Jcb1.jpg";
 import rev6 from "../assets/jcb2.jpg";
 
 const reviews = [
